@@ -1,4 +1,5 @@
 # Mendable AI
+Build AI chat applications in minutes. Backed by Y Combinator. Serving companies like MongoDB, Snapchat, Coinbase and others.
 
 <div>
     <a
