@@ -36,13 +36,13 @@
 
 ---
 
-## 🚀 Why Firecrawl?
+## Why Firecrawl?
 
 **Building AI applications?** You need clean, structured data from the web. Firecrawl handles the complexity of modern web scraping so you can focus on building great products.
 
-## 📦 Our Core Ecosystem
+## Our Core Ecosystem
 
-### 🏆 Main Repository
+### Main Repository
 <a href="https://github.com/mendableai/firecrawl">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl&theme=light" />
 </a>
@@ -52,7 +52,7 @@ Turn entire websites into LLM-ready markdown or structured data. Our flagship pr
 
 <br clear="right"/>
 
-### 🤖 MCP Integration
+### MCP Integration
 <a href="https://github.com/mendableai/firecrawl-mcp-server">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl-mcp-server&theme=light" />
 </a>
@@ -62,7 +62,7 @@ Add powerful web scraping capabilities to Claude, Cursor, and any MCP-compatible
 
 <br clear="right"/>
 
-### 💡 Examples & Templates
+### Examples & Templates
 <a href="https://github.com/mendableai/firecrawl-app-examples">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mendableai&repo=firecrawl-app-examples&theme=light" />
 </a>
@@ -72,7 +72,7 @@ Production-ready examples and templates to jumpstart your projects.
 
 <br clear="right"/>
 
-## 🌟 Community & Support
+## Community & Support
 
 <div align="center">
   <a href="https://discord.com/invite/gSmWdAkdwd">
@@ -91,12 +91,12 @@ Production-ready examples and templates to jumpstart your projects.
 
 <br>
 
-- 💬 **[Discord Community](https://discord.com/invite/gSmWdAkdwd)** - Get help and share your projects
-- 🐛 **[Issue Tracker](https://github.com/mendableai/firecrawl/issues)** - Report bugs and request features
-- 📖 **[Documentation](https://docs.firecrawl.dev)** - Comprehensive guides and API reference
-- 🎯 **[Roadmap](https://github.com/mendableai/firecrawl/projects)** - See what we're building next
+- **[Discord Community](https://discord.com/invite/gSmWdAkdwd)** - Get help and share your projects
+- **[Issue Tracker](https://github.com/mendableai/firecrawl/issues)** - Report bugs and request features
+- **[Documentation](https://docs.firecrawl.dev)** - Comprehensive guides and API reference
+- **[Roadmap](https://github.com/mendableai/firecrawl/projects)** - See what we're building next
 
-## 🏗️ Built By Mendable
+## Built By Mendable
 
 We're the team behind [Mendable.ai](https://mendable.ai), passionate about making web data accessible for AI applications. Firecrawl powers thousands of AI products worldwide.
 
@@ -110,7 +110,7 @@ We're the team behind [Mendable.ai](https://mendable.ai), passionate about makin
   
   <br>
   
-  <a href="https://github.com/mendableai/firecrawl">⭐ Star our main repo</a> • 
-  <a href="https://firecrawl.dev/playground">🎮 Try the playground</a> • 
-  <a href="https://docs.firecrawl.dev">📚 Read the docs</a>
+  <a href="https://github.com/mendableai/firecrawl">Star our main repo</a> • 
+  <a href="https://firecrawl.dev/playground">Try the playground</a> • 
+  <a href="https://docs.firecrawl.dev">Read the docs</a>
 </div>
