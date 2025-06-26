@@ -40,14 +40,6 @@
 
 **Building AI applications?** You need clean, structured data from the web. Firecrawl handles the complexity of modern web scraping so you can focus on building great products.
 
-### ✨ Core Features
-
-🎯 **Smart Extraction** - Convert any website into markdown, structured data, or screenshots  
-🔄 **Intelligent Crawling** - Automatically discover and process all subpages  
-🧠 **AI-Powered** - Extract structured data using LLMs with custom schemas  
-⚡ **Blazing Fast** - Batch process thousands of URLs simultaneously  
-🛡️ **Battle-Tested** - Handles JavaScript rendering, anti-bot measures, and complex sites  
-
 ## 📦 Our Core Ecosystem
 
 ### 🏆 Main Repository
